@@ -2,7 +2,9 @@
 
 ## Online Profiles
 
-![](https://leetcard.jacoblin.cool/kabhinav482?ext=contest&theme=dark)
+<p align="center">
+<img src = "https://leetcard.jacoblin.cool/kabhinav482?ext=contest&theme=dark">
+</p>
 
 <!--
 **abhinav-exp/abhinav-exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
