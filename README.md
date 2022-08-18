@@ -3,7 +3,7 @@
 ## Online Profiles
 
 <p align="center">
-<img src = "https://leetcard.jacoblin.cool/kabhinav482?ext=contest&theme=dark">
+<img src = "https://leetcard.jacoblin.cool/kabhinav482?ext=contest">
 </p>
 
 <!--
